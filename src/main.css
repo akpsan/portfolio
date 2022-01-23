@@ -1,0 +1,23 @@
+body {
+    max-width: 100vw;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+li {
+    list-style: none;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    cursor: pointer;
+}
+
+.project-link {
+    margin: 0 1rem;
+}
